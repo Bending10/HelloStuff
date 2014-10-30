@@ -15,4 +15,5 @@ while mult15 < 1000:
   
   
 print mult3
-print 3n5
+print mult5
+print tot
